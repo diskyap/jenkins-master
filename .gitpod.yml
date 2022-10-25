@@ -1,4 +1,0 @@
-tasks:
-  - name: backend
-
-image: nginx:alpine
